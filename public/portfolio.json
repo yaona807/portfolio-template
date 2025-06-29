@@ -1,0 +1,71 @@
+{
+  "name": "Yaona",
+  "icon": "my-icon.png",
+  "about": "ソフトウェアエンジニアのYaonaです。このサイトは設定ファイルから動的に生成されています。",
+  "workExperience": [
+    {
+      "company": "株式会社ABC",
+      "title": "フロントエンドエンジニア",
+      "duration": "2020年4月 - 2023年3月",
+      "description": "ReactとTypeScriptを用いたWebアプリケーション開発に従事。UI/UX改善、パフォーマンス最適化を担当。",
+      "projects": [
+        {
+          "name": "社内管理システム新規開発",
+          "role": "要件定義〜リリース、リーダー",
+          "tech": "React, TypeScript, Redux, MUI, Jest, GitHub Actions",
+          "descriptionFile": "project-details/abc-system.md"
+        },
+        {
+          "name": "パフォーマンス改善施策",
+          "role": "リーダー",
+          "tech": "React, TypeScript",
+          "descriptionFile": "project-details/performance.md"
+        },
+        {
+          "name": "UIデザイン刷新",
+          "role": "提案・実装",
+          "tech": "MUI, Figma",
+          "descriptionFile": "project-details/ui-redesign.md"
+        }
+      ]
+    },
+    {
+      "company": "合同会社XYZ",
+      "title": "リードエンジニア",
+      "duration": "2023年4月 - 現在",
+      "description": "新規サービスの立ち上げに参画し、技術選定から開発までを主導。チームメンバーの育成も担当。",
+      "projects": [
+        {
+          "name": "BtoB SaaSプロダクト開発",
+          "role": "設計・開発・運用",
+          "tech": "Next.js, TypeScript, AWS, Docker",
+          "descriptionFile": "project-details/saas.md"
+        },
+        {
+          "name": "チームビルディング・メンター業務",
+          "role": "リードエンジニア",
+          "tech": "",
+          "descriptionFile": "project-details/team-building.md"
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "email": "yaona@example.com"
+  },
+  "sns": [
+    { "name": "GitHub", "url": "https://github.com/yaona807", "icon": "GitHub" },
+    { "name": "X", "url": "https://x.com/yaona807", "icon": "X" }
+  ],
+  "skills": [
+    { "name": "TypeScript" },
+    { "name": "React" },
+    { "name": "Next.js" },
+    { "name": "MUI" },
+    { "name": "Node.js" },
+    { "name": "AWS" },
+    { "name": "Docker" },
+    { "name": "Jest" },
+    { "name": "Figma" }
+  ]
+}
